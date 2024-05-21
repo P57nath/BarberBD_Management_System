@@ -1,6 +1,28 @@
 # BarberBD_Management_Sys
 
-Introduction
+![Loading](https://github.com/P57nath/BarberBD_Management_System/assets/122292410/04638cbb-b87c-40c2-ba30-468c58e72be5)
+
+![LogIn](https://github.com/P57nath/BarberBD_Management_System/assets/122292410/3558a85d-44b3-418e-85e5-6122524e98e7)
+
+![Manager DashBoard](https://github.com/P57nath/BarberBD_Management_System/assets/122292410/dcdce5fe-00d9-4502-926d-2f6d3e26b9c3)
+
+![Profile](https://github.com/P57nath/BarberBD_Management_System/assets/122292410/2c7dd974-ee8f-41d6-9f5a-861ebd37660a)
+
+![UserManagement](https://github.com/P57nath/BarberBD_Management_System/assets/122292410/efcb3d4f-801b-45f4-a38d-a073b2b95d83)
+
+![ProductManagement](https://github.com/P57nath/BarberBD_Management_System/assets/122292410/951c68ab-b293-4d1d-ab93-0a123fc4d934)
+
+![ServiceManagement](https://github.com/P57nath/BarberBD_Management_System/assets/122292410/da1baebb-5640-473c-9fb5-6a63a1417f96)
+
+![CatagoryManagement](https://github.com/P57nath/BarberBD_Management_System/assets/122292410/72a0c141-fe6e-4292-a763-1709b5b250f8)
+
+![ShoppingCart](https://github.com/P57nath/BarberBD_Management_System/assets/122292410/544d1b04-374e-40d7-bc80-16acaa9f1366)
+
+![BillPreview](https://github.com/P57nath/BarberBD_Management_System/assets/122292410/e1119a91-833f-4151-8538-aac7ce7e20d7)
+
+![StaffDashBoard](https://github.com/P57nath/BarberBD_Management_System/assets/122292410/a2179963-0251-4bc0-830f-03ec0ff3836d)
+
+                                                                Introduction
 
 The BarberBd management system represents a modern, technology-driven solution that revolutionizes the way barber shops operate and serve their clients. This system meticulously designed to meet the specific needs of barber shops, providing a wide array of features that simplify operations and enhance customer experiences. In this system, there are two type of users – manager and stuff. Both staff and manager have to login their account using user id, name, email, phone number etc. The manager can add or remove staffs, updates services, products and salary. On the other hand, staffs have the ability to update their own information and search for items within the system. They can also add multiple services and multiple products, drag them into a cart at a time. They can also check their own salary, check for items availability and create invoice. A customer can pay in different ways like credit card, cash and mobile banking. The invoice has details like products and services names, staff(cashier) names and id, discount, vat, date and time, unit price, product quantity etc. The customers have to give some information like name, phone number and email that will goes to manager view option.
 
